@@ -1,6 +1,6 @@
 # todos
 
-> A Vue.js project
+> Todos List Project Using Vue.js (With Simple Dark Mode)
 
 ## Build Setup
 
